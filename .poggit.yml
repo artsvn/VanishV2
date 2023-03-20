@@ -5,4 +5,8 @@ branches:
 projects:
   VanishV2:
     path: ""
+    libs:
+      - src: muqsit/InvMenu/InvMenu
+        version: ^4.4.1
+        branch: "4.0"
 ...
