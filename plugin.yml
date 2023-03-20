@@ -1,6 +1,6 @@
 name: VanishV2
 main: superbobby\VanishV2\VanishV2
-api: 4.12.1
+api: 4.15.2
 extensions:
   Core: '>=7.4'
 version: "3.2.0"
